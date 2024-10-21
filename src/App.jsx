@@ -9,7 +9,7 @@ import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import VideoPlayer from './components/VideoPlayer/VideoPlayer'
-import Navbar from './components/Navbar/Navbar'
+
 
 
 
@@ -17,7 +17,7 @@ const App = () => {
   const [playState,setPlayState]=useState (false)
   return (
     <div>
-      <Navbar/>
+    
        <Hero/>
        <div className='container'>
        <Title subTitle='Our Program ' title='What we Offer'/>
