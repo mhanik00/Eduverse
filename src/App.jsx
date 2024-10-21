@@ -9,7 +9,7 @@ import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import VideoPlayer from './components/VideoPlayer/VideoPlayer'
-import Navbar from './components/navbar/navbar'
+import Navbar from './components/Navbar/Navbar'
 
 
 
